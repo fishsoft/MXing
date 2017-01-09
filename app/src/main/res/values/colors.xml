@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="blue">#00A0FE</color>
+
+    <!-- zxing -->
+    <!--<color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>-->
+
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#A0000000</color>
+    <color name="zxing_text_color">#9FA0A0</color>
+
+    <color name="full_cut_bg">#FFDFB2</color>
+    <color name="full_cut_text_color">#FF8F03</color>
+    <color name="full_cut_text_color_check">#FF6C00</color>
+    <color name="full_cut_text_color_check_half_transparent">#F0FF6C00</color>
+    <color name="half_full_cut_bg">#F0FF6C00</color>
+
+    <color name="textcolor_content">#6B6B6B</color>
+    <color name="appliy_receipts_sheet_title_color">#999999</color>
+    <color name="pink">#FFDBDB</color>
+
+    <color name="shallow_red">#FFF6F7</color>
+
+    <color name="invite_indicator_focus_color">#787878</color>
+    <color name="invite_indicator_blur_color">#CCCCCC</color>
+
+    <color name="yellow_circle_color">#FEE763</color>
+
+    <color name="cash_safe_color">#969696</color>
+
+    <color name="text_hint_color2">#868686</color>
+    <color name="line_color">#DDDDDD</color>
+
+    <color name="partner_mm_red_checked">#FFBFC1</color>
+
+    <color name="progress_line_color">#00C853</color>
+</resources>
